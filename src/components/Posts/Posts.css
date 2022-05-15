@@ -1,0 +1,8 @@
+.Posts{
+    flex: 9;
+    background-color: #e7e0e05d;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
